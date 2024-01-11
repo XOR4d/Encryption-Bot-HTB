@@ -1,4 +1,6 @@
+# Warning
 
+ The Source folder is **password protected** with the flag of the challenge. 
 
 Encryption process : 
 
